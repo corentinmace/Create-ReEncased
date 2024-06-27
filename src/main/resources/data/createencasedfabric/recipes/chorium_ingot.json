@@ -17,7 +17,7 @@
           "item": "createencasedfabric:processing_chorium"
         },
         {
-          "amount": 500,
+          "amount": 40500,
           "fluid": "minecraft:lava",
           "nbt": {}
         }

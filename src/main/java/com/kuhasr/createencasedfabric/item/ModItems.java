@@ -15,6 +15,7 @@ import net.minecraft.util.Rarity;
 
 public class ModItems {
 
+
 	public static final Item CHORIUM_INGOT = registerItem("chorium_ingot", new Item(new FabricItemSettings().rarity(Rarity.EPIC)));
 	public static final Item PROCESSING_CHORIUM = registerItem("processing_chorium", new Item(new FabricItemSettings().rarity(Rarity.EPIC)));
 
