@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createencasedfabric:railway_gearbox"
+    }
+  ],
+  "result": {
+    "item": "createencasedfabric:vertical_railway_gearbox"
+  }
+}

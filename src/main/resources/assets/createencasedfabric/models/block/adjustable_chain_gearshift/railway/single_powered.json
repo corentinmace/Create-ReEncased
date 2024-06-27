@@ -1,0 +1,6 @@
+{
+  "parent": "createencasedfabric:block/encased_chain_drive/railway/single",
+  "textures": {
+    "side": "createencasedfabric:block/railway_adjustable_chain_gearshift_powered"
+  }
+}

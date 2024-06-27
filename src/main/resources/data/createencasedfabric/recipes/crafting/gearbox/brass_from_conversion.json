@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createencasedfabric:vertical_brass_gearbox"
+    }
+  ],
+  "result": {
+    "item": "createencasedfabric:brass_gearbox"
+  }
+}

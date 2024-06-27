@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createencasedfabric:block/brass_mixer/block"
+    }
+  }
+}

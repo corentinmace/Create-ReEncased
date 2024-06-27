@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createencasedfabric:block/copper_depot"
+    }
+  }
+}

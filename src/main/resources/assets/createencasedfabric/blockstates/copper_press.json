@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createencasedfabric:block/copper_press/block"
+    },
+    "facing=south": {
+      "model": "createencasedfabric:block/copper_press/block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createencasedfabric:block/copper_press/block",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "createencasedfabric:block/copper_press/block",
+      "y": 90
+    }
+  }
+}

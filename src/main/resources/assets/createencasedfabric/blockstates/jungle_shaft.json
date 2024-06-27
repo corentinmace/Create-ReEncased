@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "createencasedfabric:block/wooden_shaft/jungle",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "createencasedfabric:block/wooden_shaft/jungle"
+    },
+    "axis=z": {
+      "model": "createencasedfabric:block/wooden_shaft/jungle",
+      "x": 90,
+      "y": 180
+    }
+  }
+}

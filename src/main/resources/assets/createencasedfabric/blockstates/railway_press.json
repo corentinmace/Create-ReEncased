@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "createencasedfabric:block/railway_press/block"
+    },
+    "facing=south": {
+      "model": "createencasedfabric:block/railway_press/block",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "createencasedfabric:block/railway_press/block",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "createencasedfabric:block/railway_press/block",
+      "y": 90
+    }
+  }
+}

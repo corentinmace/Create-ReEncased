@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "createencasedfabric:block/wooden_shaft/acacia",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "createencasedfabric:block/wooden_shaft/acacia"
+    },
+    "axis=z": {
+      "model": "createencasedfabric:block/wooden_shaft/acacia",
+      "x": 90,
+      "y": 180
+    }
+  }
+}

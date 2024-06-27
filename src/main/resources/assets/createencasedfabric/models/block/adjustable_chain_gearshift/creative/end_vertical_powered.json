@@ -1,0 +1,6 @@
+{
+  "parent": "createencasedfabric:block/encased_chain_drive/creative/end_vertical",
+  "textures": {
+    "side": "createencasedfabric:block/creative_adjustable_chain_gearshift_powered"
+  }
+}

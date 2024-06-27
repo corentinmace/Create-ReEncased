@@ -1,0 +1,17 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "createencasedfabric:block/wooden_shaft/oak",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "createencasedfabric:block/wooden_shaft/oak"
+    },
+    "axis=z": {
+      "model": "createencasedfabric:block/wooden_shaft/oak",
+      "x": 90,
+      "y": 180
+    }
+  }
+}

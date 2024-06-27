@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createencasedfabric:copper_gearbox"
+    }
+  ],
+  "result": {
+    "item": "createencasedfabric:vertical_copper_gearbox"
+  }
+}

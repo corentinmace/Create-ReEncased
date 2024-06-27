@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CBC",
+    " C "
+  ],
+  "key": {
+    "C": {
+      "item": "create:cogwheel"
+    },
+    "B": {
+      "item": "createencasedfabric:creative_casing"
+    }
+  },
+  "result": {
+    "item": "createencasedfabric:creative_gearbox"
+  }
+}
