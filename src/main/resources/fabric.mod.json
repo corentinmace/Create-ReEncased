@@ -1,25 +1,28 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "createencasedfabric",
   "version": "${version}",
-  "name": "Example Mod",
+  "name": "Create: ReEncased",
   "description": "This is an example description! Tell everyone what your mod is about!",
   "authors": [
-    "Me!"
+    "kuha_sr"
   ],
   "contact": {
     "sources": "https://github.com/Fabricators-of-Create/create-fabric-addon-template"
   },
   "license": "CC0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/createencasedfabric/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
-      "com.example.modid.ExampleMod"
+      "com.kuhasr.createencasedfabric.CreateReEncasedMod"
+    ],
+    "client": [
+      "com.kuhasr.createencasedfabric.CreateReEncasedModClient"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "createencasedfabric.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=${fabric_loader_version}",
