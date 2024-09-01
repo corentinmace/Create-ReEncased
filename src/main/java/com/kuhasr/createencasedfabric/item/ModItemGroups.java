@@ -16,7 +16,7 @@ import net.minecraft.util.Identifier;
 public class ModItemGroups {
 	public static final ItemGroup REENCASED_GROUP = Registry.register(Registries.ITEM_GROUP, new Identifier(CreateReEncasedMod.ID, "createencasedfabric"),
 			FabricItemGroup.builder().displayName(Text.translatable("itemGroup.createencasedfabric"))
-					.icon(() -> new ItemStack(ModItems.CHORIUM_INGOT)).entries((displayContext, entries) -> {
+					.icon(() -> new ItemStack(ModBlocks.BRASS_GEARBOX)).entries((displayContext, entries) -> {
 						// ITEMS
 						entries.add(ModItems.CHORIUM_INGOT);
 
@@ -80,6 +80,10 @@ public class ModItemGroups {
 						entries.add(ModBlocks.VERTICAL_INDUSTRIAL_IRON_GEARBOX);
 						entries.add(ModBlocks.VERTICAL_RAILWAY_GEARBOX);
 						entries.add(ModBlocks.VERTICAL_CREATIVE_GEARBOX);
+
+						// Mixers
+						entries.add(ModBlocks.BRASS_MIXER);
+						entries.add(ModBlocks.COPPER_MIXER);
 
 
 					}).build());

@@ -6,6 +6,7 @@ import com.simibubi.create.content.decoration.encasing.CasingBlock;
 import com.simibubi.create.content.kinetics.gearbox.GearboxBlock;
 
 import com.simibubi.create.content.kinetics.gearbox.VerticalGearboxItem;
+import com.simibubi.create.content.kinetics.mixer.MechanicalMixerBlock;
 import com.simibubi.create.content.kinetics.press.MechanicalPressBlock;
 import com.simibubi.create.content.kinetics.simpleRelays.ShaftBlock;
 import com.simibubi.create.content.logistics.depot.DepotBlock;
@@ -168,6 +169,14 @@ public class ModBlocks {
 
 	public static final Block VERTICAL_CREATIVE_GEARBOX = registerBlock("vertical_creative_gearbox",
 			new GearboxBlock(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS)));
+
+	// Mixers
+
+	public static final Block BRASS_MIXER = registerBlock("brass_mixer",
+			new MechanicalMixerBlock(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS)));
+
+	public static final Block COPPER_MIXER = registerBlock("copper_mixer",
+			new MechanicalMixerBlock(FabricBlockSettings.copyOf(Blocks.OAK_PLANKS)));
 
 
 
